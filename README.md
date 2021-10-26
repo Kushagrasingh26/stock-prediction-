@@ -1,2 +1,2 @@
 # Heroku-deployment
- https://aditya-stockpredictor.herokuapp.com/
+ https://kushagra-stockpredictor.herokuapp.com/
